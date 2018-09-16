@@ -107,8 +107,8 @@ author:
   github           : "sskrishnamitnala"
   linkedin         : "mitnala-siva-sai-krishna"
   email            :
-  links:
-      -label: "Email"
+  links            :
+    - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
     #   url: mailto:sskrishna.mitnala@gmail.com
     - label: "Website"
