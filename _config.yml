@@ -108,9 +108,9 @@ author:
   linkedin         : "mitnala-siva-sai-krishna"
   email            :
   links:
-      label: "Email"
+      -label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: mailto:sskrishna.mitnala@gmail.com
+    #   url: mailto:sskrishna.mitnala@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
